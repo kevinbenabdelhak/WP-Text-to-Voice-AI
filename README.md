@@ -11,7 +11,7 @@
 
 WP Text to Voice AI est un plugin WordPress qui permet de convertir facilement le contenu textuel de vos articles et pages en fichiers audio à l'aide de l'API d'OpenAI.
 
-[![Voir le tutoriel](https://img.youtube.com/vi/ZE3xdg7N1mc/mqdefault.jpg)](https://www.youtube.com/watch?v=ZE3xdg7N1mc&ab_channel=KevinBenabdelhak)
+[![Voir le tutoriel](https://img.youtube.com/vi/ZE3xdg7N1mc/sddefault.jpg)](https://www.youtube.com/watch?v=ZE3xdg7N1mc&ab_channel=KevinBenabdelhak)
 
 ## Description
 
